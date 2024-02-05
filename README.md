@@ -8,8 +8,8 @@ The application solvent database includes: water, acetone, acetonitrile, dmso, e
 
 Mode **Stoichiometry**:  
 
-<img src="images/solvate_stoichiometry_app_1.png>
+<img src="images/solvate_stoichiometry_app_1.png">
 
 Mode **Weight Chng %**:  
 
-<img src="images/solvate_stoichiometry_app_2.png>
+<img src="images/solvate_stoichiometry_app_2.png">
